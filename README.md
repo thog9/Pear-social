@@ -93,7 +93,7 @@ Pear-social/
 ├── main.py             # Central menu system
 ├── tokenX.txt          # Twitter auth_token|ct0 (one per line)
 ├── proxies.txt         # Proxies (optional)
-├── README1.md          # This file
+├── README.md          # This file
 └── scripts/            # Individual scripts
     └── checkin.py      # Task Check-in automation bot
 
